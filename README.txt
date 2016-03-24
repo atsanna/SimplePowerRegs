@@ -9,9 +9,6 @@ simply versions of the same board. Probably no one would want
 to make a v2 or v3, since v4 builds on both of them, but v1 
 is still quite useful for smaller loads.
 
-This may be a little different than the way software folks 
-like to think of versions. 
-
 
 
 
