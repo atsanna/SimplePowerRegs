@@ -11,6 +11,6 @@ inch range. Settling on a fixed size simplifies testing, and my friends
 at DemandPeripherals.com have a nice 1.875" square layout that is very 
 similar. So now I have compatible mounting fixtures, etc.
 
-And while the outside 1.875 inch dimension is anything but metric, the
-mounting holes are very close to 40 mm in both directions. The holes are
-1/8 inch which are suitable for either 4-40 or M3 screws.
+While the outside 1.875 inch dimension sounds anything but metric, the
+mounting holes are 40 mm in both directions. The holes are 1/8 inch, 
+and suitable for either 4-40 or M3 screws.
