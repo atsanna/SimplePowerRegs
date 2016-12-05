@@ -28,5 +28,5 @@ is 5V 5A output, with 7-28VDC or 6-18VAC input.
 
 
 v4 
-is a refinement of v3, coming soon to tindie.com
+is a refinement of v3, available at tindie.com
 
